@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a7c14b-5345-4390-8844-9bf85b4c7bf0" name="Changes" comment="Add PersonE.kt">
+    <list default="true" id="20a7c14b-5345-4390-8844-9bf85b4c7bf0" name="Changes" comment="Add InheritanceC.kt">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/KonsepOOPKotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/adindaoktavia/test_kelas/PersonF.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/adindaoktavia/test_kelas/InheritanceD.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +42,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.PersonFKt">
-    <configuration name="GreeterTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.adindaoktavia.test_kelas.GreeterTestKt" />
+  <component name="RunManager" selected="Kotlin.EnkapsulasiBKt">
+    <configuration name="EnkapsulasiBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.adindaoktavia.test_kelas.EnkapsulasiBKt" />
       <module name="KonsepOOPKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.EnkapsulasiBKt" />
         <item itemvalue="Kotlin.PersonFKt" />
         <item itemvalue="Kotlin.PersonEKt" />
         <item itemvalue="Kotlin.PersonAKt" />
         <item itemvalue="Kotlin.InitOrderKt" />
-        <item itemvalue="Kotlin.GreeterTestKt" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +153,49 @@
       <option name="project" value="LOCAL" />
       <updated>1727433853403</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add PersonF.kt">
+      <created>1727434652621</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727434652621</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add EnkapsulasiA.kt">
+      <created>1727435016717</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727435016718</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add EnkapsulasiB.kt">
+      <created>1727437723441</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727437723441</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add InheritanceA.kt">
+      <created>1727438706721</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727438706721</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add InheritanceB.kt">
+      <created>1727439338541</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727439338541</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add InheritanceC.kt">
+      <created>1727440033935</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727440033936</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,6 +207,12 @@
     <MESSAGE value="Add PersonC.kt" />
     <MESSAGE value="Add PersonD.kt" />
     <MESSAGE value="Add PersonE.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add PersonE.kt" />
+    <MESSAGE value="Add PersonF.kt" />
+    <MESSAGE value="Add EnkapsulasiA.kt" />
+    <MESSAGE value="Add EnkapsulasiB.kt" />
+    <MESSAGE value="Add InheritanceA.kt" />
+    <MESSAGE value="Add InheritanceB.kt" />
+    <MESSAGE value="Add InheritanceC.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add InheritanceC.kt" />
   </component>
 </project>
