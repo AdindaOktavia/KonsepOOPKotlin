@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a7c14b-5345-4390-8844-9bf85b4c7bf0" name="Changes" comment="Add PersonC.kt">
+    <list default="true" id="20a7c14b-5345-4390-8844-9bf85b4c7bf0" name="Changes" comment="Add PersonE.kt">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/KonsepOOPKotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/adindaoktavia/test_kelas/PersonF.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.PersonAKt">
+  <component name="RunManager" selected="Kotlin.PersonFKt">
     <configuration name="GreeterTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.adindaoktavia.test_kelas.GreeterTestKt" />
       <module name="KonsepOOPKotlin" />
@@ -63,8 +64,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PersonEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.adindaoktavia.test_kelas.PersonEKt" />
+      <module name="KonsepOOPKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.adindaoktavia.test_kelas.PersonFKt" />
+      <module name="KonsepOOPKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PersonFKt" />
+        <item itemvalue="Kotlin.PersonEKt" />
         <item itemvalue="Kotlin.PersonAKt" />
         <item itemvalue="Kotlin.InitOrderKt" />
         <item itemvalue="Kotlin.GreeterTestKt" />
@@ -122,7 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727101847326</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add PersonD.kt">
+      <created>1727227963014</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727227963014</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add PersonE.kt">
+      <created>1727433853403</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727433853403</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -132,6 +163,8 @@
     <MESSAGE value="Add PersonA.kt" />
     <MESSAGE value="Add PersonB.kt" />
     <MESSAGE value="Add PersonC.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add PersonC.kt" />
+    <MESSAGE value="Add PersonD.kt" />
+    <MESSAGE value="Add PersonE.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PersonE.kt" />
   </component>
 </project>
