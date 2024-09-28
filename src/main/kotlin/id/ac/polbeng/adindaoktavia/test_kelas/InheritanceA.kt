@@ -13,6 +13,6 @@ class Laptop(name: String, brand: String, val batteryLife: Double) : Computer(na
 }
 
 fun main() {
-    val myLaptop = Laptop("Acer Aspire 4738", "Acer", 2.5)
+    val myLaptop = Laptop("Asus ZenBook", "Asus", 5.0)
     myLaptop.info() // Call the info method to print details about the laptop
 }
